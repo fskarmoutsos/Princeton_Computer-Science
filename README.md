@@ -1,2 +1,2 @@
 # Princeton_Computer-Science
-Princeton:Computer Science: Programming with a Purpose 
+Princeton: Computer Science: Programming with a Purpose 
